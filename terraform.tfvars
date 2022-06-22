@@ -1,2 +1,2 @@
-project_id = "REPLACE_ME"
+project_id = "fleet-anagram-350004"
 region     = "us-central1"
